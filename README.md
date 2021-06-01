@@ -1,4 +1,4 @@
-# ApeSwap SDK
+# BoggieSwap SDK
 
 ## Running tests
 
@@ -7,13 +7,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/ApeSwapFinance/apeswap-sdk.git
+git clone https://github.com/boggieswap/boggieswap-sdk.git
 ```
 
-Move into the pancakeswap-sdk working directory
+Move into the boggieswap-sdk working directory
 
 ```sh
-cd apeswap-sdk/
+cd boggieswap-sdk/
 ```
 
 Install dependencies
